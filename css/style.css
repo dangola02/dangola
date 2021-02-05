@@ -1,0 +1,95 @@
+#title{
+  background-color: #11698e;
+  padding-top: 2%;
+  padding-left: 7%;
+  padding-right: 10%;
+  color: white;
+  padding-bottom: 5%;
+}
+h1{
+  font-weight: bold;
+}
+h2{
+  font-weight: bold;
+}
+h3{
+  color: #0a043c;
+  font-weight: bold;
+}
+.title-img{
+  width: 500px;
+  float: right;
+}
+.title-dsc{
+
+}
+.navbar{
+  padding: 0;
+}
+.down-button{
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+#features{
+  padding-top: 3%;
+  padding-left: 7%;
+  padding-right: 10%;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.feature-fas{
+  font-size:75px;
+  color: #23689b;
+  margin-bottom:20px;
+}
+.mailicon{
+  font-size:300px;
+  color: #23689b;
+  margin-left:220px;
+  margin-top: 25px;
+}
+#slide{
+  background-color: #d0e8f2;
+  text-align: center;
+  padding: 3%;
+}
+.p_down{
+padding-top:30px;
+}
+#carouselExampleIndicators{
+padding-bottom:40px;
+}
+
+.star{
+  width: 250px;
+  height: 250px;
+  border-radius:40%;
+}
+.partner-img{
+  width: 6%;
+margin-left:600px;
+}
+#pricing{
+  padding-top:2%;
+  padding-left: 15%;
+  padding-bottom:2%;
+  padding-right: 10%;
+  text-align: center;
+}
+#Feedback{
+  padding-top: 2%;
+  background-color: #d0e8f2;
+}
+.card{
+  width: 300px;
+}
+#partners{
+background-color: #11698e;
+text-align: center;
+padding: 1.5%;
+
+}
+.price-row{
+  margin-top: 100px;
+}
